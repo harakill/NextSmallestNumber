@@ -1,0 +1,15 @@
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\bin\Debug\net6.0\NextSmallestNumber.exe
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\bin\Debug\net6.0\NextSmallestNumber.deps.json
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\bin\Debug\net6.0\NextSmallestNumber.runtimeconfig.json
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\bin\Debug\net6.0\NextSmallestNumber.dll
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\bin\Debug\net6.0\NextSmallestNumber.pdb
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.csproj.AssemblyReference.cache
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.AssemblyInfoInputs.cache
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.AssemblyInfo.cs
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.dll
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\refint\NextSmallestNumber.dll
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.pdb
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\NextSmallestNumber.genruntimeconfig.cache
+C:\Users\Hashim\source\repos\NextSmallestNumber\NextSmallestNumber\obj\Debug\net6.0\ref\NextSmallestNumber.dll
